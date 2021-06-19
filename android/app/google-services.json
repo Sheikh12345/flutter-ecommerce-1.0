@@ -1,0 +1,327 @@
+{
+  "project_info": {
+    "project_number": "930506877678",
+    "firebase_url": "https://laravelecommercemap.firebaseio.com",
+    "project_id": "laravelecommercemap",
+    "storage_bucket": "laravelecommercemap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930506877678:android:d1fe33ba05c543aa0921ff",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930506877678-4kiv1aqpcrvpgueafnoc2d0bq603ejn4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app1",
+            "certificate_hash": "18f9b9b62c6b93fbc78238a22411c950cbc64a9e"
+          }
+        },
+        {
+          "client_id": "930506877678-bf26utnomcqku7smdtquau8e7aoftc5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mYxIWQ4ayJdFyBNksHGGqcrv5uBv00U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930506877678-40nf1t175frg8d21060njiddolrgkjul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930506877678-469k3k9qcobe44ol761hevm4sa65mfqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNwoocommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930506877678:android:028f3cfaad591fe20921ff",
+        "android_client_info": {
+          "package_name": "com.react_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930506877678-nui7u1fa9dt2urt1bgf0e7l4afb2rnt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.react_delivery_boy",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "930506877678-bf26utnomcqku7smdtquau8e7aoftc5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mYxIWQ4ayJdFyBNksHGGqcrv5uBv00U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930506877678-40nf1t175frg8d21060njiddolrgkjul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930506877678-469k3k9qcobe44ol761hevm4sa65mfqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNwoocommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930506877678:android:d2f696f8116d28ac0921ff",
+        "android_client_info": {
+          "package_name": "com.rnbecrux"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930506877678-vegah57s4unujq4bo15na7aj21nhacoj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnbecrux",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "930506877678-bf26utnomcqku7smdtquau8e7aoftc5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mYxIWQ4ayJdFyBNksHGGqcrv5uBv00U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930506877678-40nf1t175frg8d21060njiddolrgkjul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930506877678-469k3k9qcobe44ol761hevm4sa65mfqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNwoocommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930506877678:android:e0d3028b7d663f330921ff",
+        "android_client_info": {
+          "package_name": "com.rnbecruxBoy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930506877678-h8rtqq958pls0q329kmmirkkltokiu1b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnbecruxBoy",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "930506877678-n1ub3g4dqgt90e4386npuk82o8vhqicc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnbecruxBoy",
+            "certificate_hash": "ebcf47bab487d57936a0ea08e1bf7f4669ee7c03"
+          }
+        },
+        {
+          "client_id": "930506877678-bf26utnomcqku7smdtquau8e7aoftc5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mYxIWQ4ayJdFyBNksHGGqcrv5uBv00U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930506877678-40nf1t175frg8d21060njiddolrgkjul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930506877678-469k3k9qcobe44ol761hevm4sa65mfqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNwoocommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930506877678:android:a28895cf023cd6260921ff",
+        "android_client_info": {
+          "package_name": "com.themescoder.androidstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930506877678-o8j93oqrmnsil4qfkqlurtjl95vhgqgb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.themescoder.androidstore",
+            "certificate_hash": "18f9b9b62c6b93fbc78238a22411c950cbc64a9e"
+          }
+        },
+        {
+          "client_id": "930506877678-bf26utnomcqku7smdtquau8e7aoftc5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mYxIWQ4ayJdFyBNksHGGqcrv5uBv00U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930506877678-40nf1t175frg8d21060njiddolrgkjul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930506877678-469k3k9qcobe44ol761hevm4sa65mfqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNwoocommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930506877678:android:62118dd716e215e70921ff",
+        "android_client_info": {
+          "package_name": "com.themescoder.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930506877678-9evkau9d6qmi89r231730sajvmbhm4c6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.themescoder.driver",
+            "certificate_hash": "6d50991d4132d67126c7e8bb1010ba490e8f62e2"
+          }
+        },
+        {
+          "client_id": "930506877678-o3l44u2qq3itbmcltoa4uju97iqi5fob.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.themescoder.driver",
+            "certificate_hash": "df0da152fa09d46a81e773b6c30f515c77ca1d30"
+          }
+        },
+        {
+          "client_id": "930506877678-bf26utnomcqku7smdtquau8e7aoftc5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mYxIWQ4ayJdFyBNksHGGqcrv5uBv00U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930506877678-40nf1t175frg8d21060njiddolrgkjul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930506877678-469k3k9qcobe44ol761hevm4sa65mfqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNwoocommerce"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930506877678:android:b2c670a0890fc3b00921ff",
+        "android_client_info": {
+          "package_name": "com.themescoder.ionic.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930506877678-bf26utnomcqku7smdtquau8e7aoftc5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3mYxIWQ4ayJdFyBNksHGGqcrv5uBv00U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930506877678-40nf1t175frg8d21060njiddolrgkjul.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "930506877678-469k3k9qcobe44ol761hevm4sa65mfqo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RNwoocommerce"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
